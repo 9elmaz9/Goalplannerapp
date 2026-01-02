@@ -1,8 +1,8 @@
 
   # Goal Planner App
 
-  This is a code bundle for Goal Planner App. The original project is available at https://www.figma.com/design/vfhSH0arQD0xozWStyrGWB/Goal-Planner-App.
-
+  This is a code bundle for Goal Planner App. The original project is available at[ https://www.figma.com/design/vfhSH0arQD0xozWStyrGWB/Goal-Planner-App.
+](https://clip-ninth-22718767.figma.site)
   ## Running the code
 
   Run `npm i` to install the dependencies.
